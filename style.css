@@ -1,0 +1,53 @@
+body {
+    background-image:url(background-site.jpg);
+    }
+
+.header {
+    margin-left:auto;
+    margin-right:auto;
+    margin-bottom:10px;
+    width:auto;
+    height:10%;
+    border:1px solid #000001;
+    background: rgba(215, 0, 0, 0.5);
+    }
+        .header a {
+     display: block; /* Ссылка как блочный элемент */
+     text-align: left; /* Выравнивание по центру */
+     height: 100%; /* Высота на весь слой */
+     text-decoration: none;
+     color: black;
+    }
+
+.pages { 
+    margin-left:auto; 
+    margin-right:auto; 
+    width:auto;
+    }
+.content {
+    margin-right:1%;
+    width: 90%;
+    min-width: 500px;
+    height:85%;
+    border:1px solid #000000;
+    background: rgba(160, 160, 160, 0.5);
+    float:left;
+    }
+.sidebar {
+    width:8.5%;
+    height:85%;
+    border:1px solid #000000;
+    background: #F0F8FF;
+    float:left;
+    }
+.foot {
+    clear:both;
+    }
+.footer {
+    margin-bottom:auto;
+    margin-left:auto;
+    margin-right:auto;
+    width:auto;
+    height:50px;
+    }
+
