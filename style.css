@@ -8,8 +8,8 @@ body {
     margin-bottom:10px;
     width:auto;
     height:10%;
-    border:1px solid #000001;
-    background: rgba(215, 0, 0, 0.5);
+    border:1px solid #000000;
+    background: rgba(210, 0, 0, 0.5);
     }
         .header a {
      display: block; /* Ссылка как блочный элемент */

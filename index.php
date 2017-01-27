@@ -1,4 +1,4 @@
-п»ї<link rel="stylesheet" type="text/css" href="style.css"/>
+<link rel="stylesheet" type="text/css" href="style.css"/>
 </head>
 <body>
 
@@ -11,3 +11,5 @@ include("footer.php");
 
 </body>
 </html>
+
+Добавляем эту строчку
